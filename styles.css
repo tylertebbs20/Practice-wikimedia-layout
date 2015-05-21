@@ -1,1 +1,118 @@
+body {
+  margin: 0;
+  width:100%;
+  height: 100px;
+}
 
+.parent {
+  background: white;
+}
+
+.paragraphs {
+  width: 100%;
+}
+
+.rowOne {
+  display: flex;
+  flex-direction: row;  
+  justify-content: space-between;
+}
+
+.wikipedia {
+  margin-left: 30px;
+}
+
+.wiktionary {
+  
+}
+
+.wikiquote {
+  
+}
+
+.wikibooks {
+  
+}
+
+.rowTwo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.wikisource {
+  
+}
+
+.wikinews {
+  
+}
+
+.wikiversity {
+  
+}
+
+.wikispecies {
+  
+}
+
+.rowThree {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;  
+}
+
+.mediawiki {
+  
+}
+
+.wikidata {
+  
+}
+
+.wikimediacommons {
+  
+}
+
+.wikivoyage {
+  
+}
+
+.rowFour {
+  display: flex;
+  flex-direction: row; 
+  justify-content: space-between;
+}
+
+.metawiki {
+  
+}
+
+.incubator {
+  
+}
+
+.labs {
+  
+}
+
+.foundation {
+  
+}
+
+.paragraphline {
+
+}
+
+.links {
+  display: flex;
+  flex-direction: row; 
+}
+
+.terms {
+
+}
+
+.privasy {
+
+}
